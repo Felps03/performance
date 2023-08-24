@@ -87,4 +87,11 @@ Se você tiver alguma sugestão, otimização ou observação sobre os testes, f
 
 ---
 
+---
+
+🔗 **Conecte-se comigo no LinkedIn:** [Felipe Silva - LinkedIn](https://www.linkedin.com/in/felps03/)
+
+---
+
+
 **Nota:** A performance pode variar de acordo com o ambiente, versão do JavaScript e outras variáveis. Sempre teste em seu próprio ambiente para obter resultados mais precisos.
