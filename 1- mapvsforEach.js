@@ -1,4 +1,4 @@
-var array = [
+const array = [
   obj = {
     'a': null,
     'b': 1,
@@ -19,7 +19,5 @@ array.forEach((obj) => {
 console.timeEnd('forEach');
 
 console.time('map');
-array.forEach((obj) => {
-  Object.keys(obj).map(key => key !== null)
-})
+array.forEach((obj) => Object.keys(obj).map(key => key !== null))
 console.timeEnd('map');
