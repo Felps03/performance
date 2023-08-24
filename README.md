@@ -9,7 +9,7 @@ Olá! Bem-vindo ao nosso estudo de caso focado na performance de diferentes mét
 📜 **Lista de estudos comparativos:**
 
 1. 🔄 **Map vs ForEach** 
-    - Arquivo: [mapvsforEach.js](./mapvsforEach.js)
+    - Arquivo: [mapvsforEach.js](https://github.com/Felps03/performance/blob/main/1-mapvsforEach.js)
 2. 🎯 **Array.from().map vs Array.prototype.map.call**
     - Arquivo: [Array.from().map vs Array.prototype.map.call.js](./Array.from().map%20vs%20Array.prototype.map.call.js)
 3. 📊 **Reduce vs For loop vs Foreach**
